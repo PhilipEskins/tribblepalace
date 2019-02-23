@@ -7,7 +7,7 @@
 ## Description
 
 _This website is for a fictional company called Tribble Palace that is opening a coworking space in Portland, OR._
-_Link to viewable webpage https://philipeskins.github.io/tribblepalace/_
+_Link to viewable webpage https://philipeskins.github.io/tribblepalace/ (not yet active)_
 
 ## Setup/Installation Requirements
 
