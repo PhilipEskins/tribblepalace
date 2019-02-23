@@ -37,13 +37,19 @@ _If you have problems or would like to comment about something feel free to cont
 ## Technologies Used
 
 _This website uses HTML, CSS, and SASS._
-_Sketch file was used using Sketch version 53.2._
+_Sketch file was made using Sketch version 53.2._
 
-### Screenshots
-_Original Website_
-![Alt text](img/princess.jpg?raw=true "Original Website")
-_My Clone Website_
-![Alt text](img/clone.jpg?raw=true "My Clone Website")
+### Drawings
+_Homepage_
+![Alt text](img/homepage.jpeg?raw=true "Homepage Drawing")
+_Community Page_
+![Alt text](img/community.jpeg?raw=true "Community Page")
+_Pricing Page_
+![Alt text](img/pricing.jpeg?raw=true "Pricing Page")
+_Amenities Page_
+![Alt text](img/amenities.jpeg?raw=true "Amenities Page")
+_Contact Page_
+![Alt text](img/contact.jpeg?raw=true "Contact Page")
 
 ### License
 
