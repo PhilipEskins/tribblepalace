@@ -51,6 +51,29 @@ _Amenities Page_
 _Contact Page_
 ![Alt text](img/contact.jpeg?raw=true "Contact Page")
 
+### Screenshots of Sketch Mobile Layouts
+
+_Homepage_  
+![Alt text](img/Screenshots/Mobile-Homepage.png?raw=true "Homepage Mobile Screenshot")  
+_Community Page_  
+![Alt text](img/Screenshots/Mobile-Community.png?raw=true "Community Page")  
+_Pricing Page_  
+![Alt text](img/Screenshots/Mobile-Pricing.png?raw=true "Pricing Page")  
+_Amenities Page_  
+![Alt text](img/Screenshots/Mobile-Amenities.png?raw=true "Amenities Page")  
+_Contact Page_  
+![Alt text](img/Screenshots/Mobile-Contact.png?raw=true "Contact Page")  
+_Homepage Dropdown_  
+![Alt text](img/Screenshots/Mobile-Homepage-Dropdown.png?raw=true "Homepage Mobile Screenshot")  
+_Community Page Dropdown_  
+![Alt text](img/Screenshots/Mobile-Community-Dropdown.png?raw=true "Community Page")  
+_Pricing Page Dropdown_  
+![Alt text](img/Screenshots/Mobile-Pricing-Dropdown.png?raw=true "Pricing Page")  
+_Amenities Page Dropdown_  
+![Alt text](img/Screenshots/Mobile-Amenities-Dropdown.png?raw=true "Amenities Page")  
+_Contact Page Dropdown_  
+![Alt text](img/Screenshots/Mobile-Contact-Dropdown.png?raw=true "Contact Page")  
+
 ### License
 
 *MIT*
