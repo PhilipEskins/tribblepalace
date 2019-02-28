@@ -1,6 +1,6 @@
 # _Tribble Palace_
 
-#### _Website for fictional coworking space called Tribble Palace, Last Updated 02-23-19_
+#### _Website for fictional coworking space called Tribble Palace, Last Updated 02-28-19_
 
 #### By _**Philip Eskins**_
 
@@ -17,14 +17,35 @@ _Link to viewable webpage https://philipeskins.github.io/tribblepalace/ (not yet
 * _If you'd like to alter or see the code for the project, after downloading open the folder up in your favorite code editor._
 * _If you'd like to alter or see the design for the project, after downloading open tribblepalace.sketch up in Sketch. (file was created using Sketch version 53.2)_
 
-## User Stories
-#### Independent Contractors:
-* Goal: Find a location that will fit their needs to do there work in a social setting.
-* Pain points: Isolation from working at home/alone.
-* Circumstances:  Looking for a space where they can still work efficiently and be in a more social setting.
+## User Personas/Stories
+#### Developers:
+As a Developer I want a reliable space with great internet connection so that I can perform work outside of my home.
+
+* Goal: Find a location that has great internet connection while working on independent projects outside of the home.
+* Pain points: Isolation from working at home/alone. Hard to stay focused while at home.
+* Circumstances:  Looking for a space where they can still stay online and focus better on there project and possibly collaborate with others if needed.
+* Tech ability: High technical ability.
+* Devices: Mobile or Laptop/Desktop.
+
+
+#### Artist:
+As an Artist I want a neutral space to show off my work and will also allow me to be creative to work on projects in a social setting.
+
+* Goal: Find a location outside of there home that will still foster there creativity. A neutral space to show of work.
+* Pain points: Isolation from working at home/alone. Might not want strangers to visit there home to show of work.
+* Circumstances:  Looking for a space where they can still be creative and be in a social setting. A neutral space to show off work without giving out a personal address.
 * Tech ability: Basic web browsing knowledge
-* Devices: mobile or desktop/laptop.
-* _Link to google doc of user stories https://docs.google.com/document/d/1tGthHCzSwkwORWOIirXLS86UICpr1GrUFIwsfuiPGIM/edit?usp=sharing_
+* Devices: Mobile or Desktop/Laptop.
+
+
+#### Counselor:
+As a Counselor I want a neutral space to invite clients to and will also allow me to perform my regular office tasks.
+
+* Goal: Find a location that offers private offices so I don't have to meet with clients at my home or their home.
+* Pain points: Need to meet with clients face to face, would either be at the counselors home or at the clients home.
+* Circumstances:  Looking for a space where they can have clients come to a neutral location away from distractions from either of counselors or clients home.
+* Tech ability: Basic web browsing knowledge
+* Devices: Mobile or Desktop/Laptop.
 
 ## Known Bugs
 
