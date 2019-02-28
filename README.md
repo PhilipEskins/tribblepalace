@@ -41,15 +41,15 @@ _Sketch file was made using Sketch version 53.2._
 
 ### Drawings
 _Homepage_
-![Alt text](img/homepage.jpeg?raw=true "Homepage Drawing")
+![Alt text](img/drawings/homepage.jpeg?raw=true "Homepage Drawing")
 _Community Page_
-![Alt text](img/community.jpeg?raw=true "Community Page")
+![Alt text](img/drawings/community.jpeg?raw=true "Community Page")
 _Pricing Page_
-![Alt text](img/pricing.jpeg?raw=true "Pricing Page")
+![Alt text](img/drawings/pricing.jpeg?raw=true "Pricing Page")
 _Amenities Page_
-![Alt text](img/amenities.jpeg?raw=true "Amenities Page")
+![Alt text](img/drawings/amenities.jpeg?raw=true "Amenities Page")
 _Contact Page_
-![Alt text](img/contact.jpeg?raw=true "Contact Page")
+![Alt text](img/drawings/contact.jpeg?raw=true "Contact Page")
 
 ### Screenshots of Sketch Mobile Layouts
 
