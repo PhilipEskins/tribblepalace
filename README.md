@@ -7,13 +7,13 @@
 ## Description
 
 _This website is for a fictional company called Tribble Palace that is opening a coworking space in Portland, OR._
-_Link to viewable webpage https://philipeskins.github.io/tribblepalace/ (not yet active)_
 
 ## Setup/Installation Requirements
 
 * _Download repository from https://github.com/PhilipEskins/tribblepalace/_
 * _Open tribblepalace.sketch in the Sketch program_
-* _Open index.html using your browser of choice_
+* _Type npm install in the tribblepalace directory in the terminal_
+* _Type npm run start and the website will open up in a new browser window_
 * _If you'd like to alter or see the code for the project, after downloading open the folder up in your favorite code editor._
 * _If you'd like to alter or see the design for the project, after downloading open tribblepalace.sketch up in Sketch. (file was created using Sketch version 53.2)_
 
@@ -23,7 +23,7 @@ As a Developer I want a reliable space with great internet connection so that I 
 
 * Goal: Find a location that has great internet connection while working on independent projects outside of the home.
 * Pain points: Isolation from working at home/alone. Hard to stay focused while at home.
-* Circumstances:  Looking for a space where they can still stay online and focus better on there project and possibly collaborate with others if needed.
+* Circumstance: Looking for a space where they can still stay online and focus better on there project and possibly collaborate with others if needed.
 * Tech ability: High technical ability.
 * Devices: Mobile or Laptop/Desktop.
 
