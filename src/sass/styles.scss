@@ -7,20 +7,27 @@
   padding: 0;
 }
 
+@mixin logo {
+  font-family: Copperplate, Helvetica, sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  color: #F3F4EF;
+}
+
 body {
   background-color: #F3F4EF;
   font-family: Tahoma, Helvetica, sans-serif;
-  font: calc(125% + 2vw);
+  font: calc(125% + 2vmin);
   @include noSpace
+  height: 100%;
 }
 
 // .container {
-//   width: 375px;
-//   margin: auto;
+//   display: grid;
+//   height: 100%;
 // }
 
 .navBar {
-  font-family: Copperplate, Helvetica, sans-serif;
   text-align: center;
   display: flex;
   justify-content: space-between;
@@ -28,9 +35,9 @@ body {
   width: 100%;
   font-size: 1rem;
   background-color: #534D3F;
-  color: #F3F4EF;
+
   h1 {
-    font-weight: lighter;
+    @include logo;
     margin: 5px 10px;
   }
   img {
@@ -96,5 +103,29 @@ body {
 
   .endContent {
     text-align: center;
+  }
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: #534D3F;
+  font-size: 0.8rem;
+
+  .address {
+    color: #82BFFE;
+    margin-left: 10px;
+  }
+
+  .name {
+    @include logo;
+    font-size: 1rem;
+  }
+
+  .contact {
+    color: #C7EBC7;
+    margin-right: 10px;
   }
 }
