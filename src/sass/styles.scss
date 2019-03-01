@@ -9,6 +9,7 @@
 
 body {
   background-color: #F3F4EF;
+  font-family: Tahoma, Helvetica, sans-serif;
   font: calc(125% + 2vw);
   @include noSpace
 }
@@ -38,7 +39,6 @@ body {
     outline: 5px solid black;
     outline-offset: -4px;
     width: 100%;
-    height: 145px;
   }
 }
 
@@ -50,16 +50,31 @@ body {
     margin-bottom: 0;
   }
   .box {
-    background-color: #E3DED8;
-    @include borders;
     display: grid;
-    grid-template-columns: 145px 145px;
+    background-color: #E3DED8;
+    grid-template-columns: 1fr 1fr;
     width: 100%;
-    height: 100px;
+    justify-content: center;
+    margin: 10px 0px;
+
+    p {
+      text-align: center;
+      margin: 4px 0px;
+      text-transform: uppercase;
+      border-bottom: 1px solid black;
+    }
+
+    ul {
+      margin: 4px 0px;
+      font-size: 0.8rem;
+    }
+    li {
+      font-weight: normal;
+    }
 
     img {
       width: 100%;
-      height: 100px;
+      height: 100%;
       grid-row: span 2;
     }
   }
