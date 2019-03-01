@@ -1,0 +1,24 @@
+{
+  "name": "tribblepalace",
+  "version": "1.0.0",
+  "description": "#### _Website for fictional coworking space called Tribble Palace, Last Updated 02-28-19_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipEskins/tribblepalace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilipEskins/tribblepalace/issues"
+  },
+  "homepage": "https://github.com/PhilipEskins/tribblepalace#readme",
+  "devDependencies": {
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
+  }
+}
