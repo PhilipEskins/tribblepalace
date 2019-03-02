@@ -129,3 +129,40 @@ body {
     margin-right: 10px;
   }
 }
+
+@media screen and (min-width: 600px) {
+  .picture {
+    img{
+      outline: 5px solid black;
+      outline-offset: -5px;
+      width: 100%;
+      max-height: 822px;
+    }
+  }
+
+  .content {
+    .contentBoxes {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-column-gap: 5px;
+    }
+    .box{
+      grid-template-rows: 1fr;
+      grid-template-columns: 1fr;
+      @include noSpace;
+      img {
+        height: 200px;
+        margin: auto;
+      }
+      ul {
+        margin: auto;
+      }
+    }
+
+    .even{
+      img {
+        grid-column: 1;
+      }
+    }
+  }
+}
