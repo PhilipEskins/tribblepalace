@@ -22,10 +22,10 @@ body {
   height: 100%;
 }
 
-// .container {
-//   display: grid;
-//   height: 100%;
-// }
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
 
 .navBar {
   text-align: center;
@@ -43,6 +43,19 @@ body {
   img {
     height: 50px;
     margin: 0px 10px;
+  }
+
+  .navList {
+    display: none;
+    justify-content: space-around;
+    width: 100%;
+    text-align: right;
+  }
+
+  li {
+    margin: 5%;
+    display: inline;
+    color: #F3F4EF;
   }
 }
 
@@ -78,10 +91,13 @@ body {
 
     ul {
       font-size: 0.8rem;
-      margin: -10px auto;
     }
     li {
       font-weight: normal;
+    }
+
+    ul:last-child {
+      margin-bottom: 20px;
     }
 
     img {
@@ -131,6 +147,13 @@ body {
 }
 
 @media screen and (min-width: 600px) {
+
+  .navBar {
+    .navList {
+      display: block;
+    }
+  }
+
   .picture {
     img{
       outline: 5px solid black;
@@ -138,6 +161,10 @@ body {
       width: 100%;
       max-height: 822px;
     }
+  }
+
+  .hamburger {
+    display: none;
   }
 
   .content {
@@ -150,6 +177,7 @@ body {
       grid-template-rows: 1fr;
       grid-template-columns: 1fr;
       @include noSpace;
+      max-width: 275px;
       img {
         height: 200px;
         margin: auto;
@@ -163,6 +191,13 @@ body {
       img {
         grid-column: 1;
       }
+    }
+  }
+
+  .footer {
+    font-size: 1rem;
+    .name {
+      font-size: 1.5rem;
     }
   }
 }
