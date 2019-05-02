@@ -86,14 +86,12 @@ _Contact Page_
 ![Alt text](img/Screenshots/Mobile-Contact.png?raw=true "Contact Page")  
 _Homepage Dropdown_  
 ![Alt text](img/Screenshots/Mobile-Homepage-Dropdown.png?raw=true "Homepage Mobile Screenshot")  
-_Community Page Dropdown_  
-![Alt text](img/Screenshots/Mobile-Community-Dropdown.png?raw=true "Community Page")  
-_Pricing Page Dropdown_  
-![Alt text](img/Screenshots/Mobile-Pricing-Dropdown.png?raw=true "Pricing Page")  
-_Amenities Page Dropdown_  
-![Alt text](img/Screenshots/Mobile-Amenities-Dropdown.png?raw=true "Amenities Page")  
-_Contact Page Dropdown_  
-![Alt text](img/Screenshots/Mobile-Contact-Dropdown.png?raw=true "Contact Page")  
+ 
+### Pictures of the website
+_Mobile version_
+![Alt text](img/Screenshots/mobile.png?raw=true "Mobile")
+_Desktop version_
+![Alt text](img/Screenshots/desktop.png?raw=true "Desktop")
 
 ### License
 
